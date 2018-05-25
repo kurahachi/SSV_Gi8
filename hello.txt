@@ -1,1 +1,2 @@
 Hello, SSV_Git8!  by Yasuko.
+Edit & commit by git command line.
