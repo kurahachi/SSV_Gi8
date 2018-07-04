@@ -1,2 +1,4 @@
 Hello, SSV_Git8!  by Yasuko.
 Edit & commit by git command line.
+add a line on branch'kousaka-a'
+add more one line on the same.
