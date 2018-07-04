@@ -1,3 +1,5 @@
 Hello, SSV_Git8!  by Yasuko.
 Edit & commit by git command line.
 コミットメッセージ用のエディタを設定。
+
+ブランチAで変更した箇所です！
